@@ -2,9 +2,9 @@
 
  ## Pre-requisites
  
--Install required packages
--Install MongoDB 
--Configure OPENAI_API_KEY in environment variables
+- Install required packages
+- Install MongoDB 
+- Configure OPENAI_API_KEY in environment variables
 
 
 ## Steps
