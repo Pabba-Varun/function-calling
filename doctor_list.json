@@ -1,0 +1,51 @@
+{
+    "doctor_list" : [
+                {
+                    "name": "Dr. Arjun",
+                    "department": "Cardiologist",
+                    "appointmentSlotInMin": "30",
+                    "checkinTime": "10:00",
+                    "checkoutTime": "16:00",
+                    "availableDays": "Monday, Wednesday, Friday"
+                },
+                {
+                    "name": "Dr. Sharma",
+                    "department": "General Physician",
+                    "appointmentSlotInMin": "20",
+                    "checkinTime": "09:30",
+                    "checkoutTime": "18:00",
+                    "availableDays": "Monday, Tuesday, Wednesday, Thursday, Friday"
+                },
+                {
+                    "name": "Dr. Priya",
+                    "department": "General Physician",
+                    "appointmentSlotInMin": "30",
+                    "checkinTime": "09:00",
+                    "checkoutTime": "20:00",
+                    "availableDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday"
+                },
+                {
+                    "name": "Dr. Mohan",
+                    "department": "ENT",
+                    "appointmentSlotInMin": "30",
+                    "checkinTime": "10:00",
+                    "checkoutTime": "16:00",
+                    "availableDays": "Monday, Friday"
+                },
+                {
+                    "name": "Dr. Kavitha",
+                    "department": "Orthopedic",
+                    "appointmentSlotInMin": "30",
+                    "checkinTime": "10:00",
+                    "checkoutTime": "16:00",
+                    "availableDays": "Monday, Wednesday, Friday"
+                },
+                {
+                    "name": "Dr. Suraj",
+                    "department": "Cardiologist",
+                    "appointmentSlotInMin": "30",
+                    "checkinTime": "07:00",
+                    "checkoutTime": "14:00",
+                    "availableDays": "Tuesday, Friday, Sunday"
+                }]
+}
